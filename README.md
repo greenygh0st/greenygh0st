@@ -3,7 +3,8 @@
 ## I am Senior Developer 🧙 at one of those "large tech companies" on a small application team
 I wear many cool hats there like:
 - Developer/Engineer 👨‍💻
-- DevOps ✨
+- Architect/Lead
+- DevOps ✨(keeping all the lights blinking and the logs green)
 - Code Reviewer for contract workers and others
 
 At my day job I work with and on some pretty cool tech/ideas including but in no way limited to:
