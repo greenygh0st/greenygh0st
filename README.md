@@ -5,6 +5,19 @@ I wear many cool hats there like:
 - Developer/Engineer 👨‍💻
 - DevOps ✨
 - Code Reviewer for contract workers and others
+
+At my day job I work with some pretty cool tech/ideas including but in no way limited to:
+- C# (.NET Core/Framework), Node/Typescript
+- API/Microservice Development
+- Frontend Development
+- Batch Processing
+- Oracle DBMS 🤢 / Postgres 🤩 / Redis 🤩
+
+Hobby wise/on the side:
+- All the above things...
+- Ruby on Rails
+- Mobile App Development
+- IoT
 <!--
 **greenygh0st/greenygh0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
