@@ -6,8 +6,9 @@ I wear many cool hats there like:
 - DevOps ✨
 - Code Reviewer for contract workers and others
 
-At my day job I work with some pretty cool tech/ideas including but in no way limited to:
+At my day job I work with and on some pretty cool tech/ideas including but in no way limited to:
 - C# (.NET Core/Framework), Node/Typescript
+- Fault Tolerant External Service Integrations (to places like Google, Microsoft and others)
 - API/Microservice Development
 - Frontend Development
 - Batch Processing
