@@ -1,6 +1,6 @@
 ### Hi there I'm Dale 👋
 
-## I am Senior Developer at one of those "large tech companies" 🧙
+## I am Senior Developer 🧙 at one of those "large tech companies" on a small application team
 I wear many cool hats there like:
 - Developer/Engineer 👨‍💻
 - DevOps ✨
