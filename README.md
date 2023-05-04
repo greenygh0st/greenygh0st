@@ -8,7 +8,7 @@ I wear many cool hats there like:
 - Code Reviewer for contract workers and others
 
 At my day job I work with and on some pretty cool tech/ideas including but in no way limited to:
-- C# (.NET Core/Framework), Node/Typescript
+- C# (.NET Core/Framework), Node/Typescript, Python
 - Fault Tolerant External Service Integrations (to places like Google, Microsoft and others)
 - API/Microservice Development
 - Frontend Development
