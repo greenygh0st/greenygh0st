@@ -4,7 +4,7 @@
 I wear many cool hats there like:
 - Developer/Engineer 👨‍💻
 - Architect/Lead
-- DevOps ✨(keeping all the lights blinking and the logs green)
+- DevOps & Resiliency ✨(keeping all the lights blinking and the logs green)
 - Code Reviewer for contract workers and others
 
 At my day job I work with and on some pretty cool tech/ideas including but in no way limited to:
@@ -17,7 +17,7 @@ At my day job I work with and on some pretty cool tech/ideas including but in no
 
 Hobby wise/on the side:
 - All the above things...
-- Ruby on Rails
+- Ruby on Rails, GoLang, Swift
 - Mobile App Development
 - IoT
 <!--
