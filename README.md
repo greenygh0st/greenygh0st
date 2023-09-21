@@ -14,7 +14,7 @@ I wear many cool hats there like:
 - API/Microservice Development
 - Frontend Development
 - Batch Processing
-- Oracle DBMS 🤢 / Postgres 🤩 / Redis 🤩
+- Oracle DBMS 👍 / Postgres 🤩 / Redis 🤩
 
 🏕️ Hobby wise/on the side:
 - All the above things...
