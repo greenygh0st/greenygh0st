@@ -21,6 +21,7 @@ I wear many cool hats there like:
 - Ruby on Rails, GoLang, Swift
 - Mobile App Development
 - IoT/Home Automation
+- AI
 
 🌱 I’m currently learning ...
 - Rust
