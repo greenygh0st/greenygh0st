@@ -3,9 +3,9 @@
 ## I am Staff Developer/Engineer 🧙 at one of those "large tech companies" on a small application team
 I wear many cool hats there like:
 - Developer/Engineer 👨‍💻
-- Architect/Lead 👨‍🏫
+- Architect/Lead/SME/Product Owner 👨‍🏫
 - DevOps & Resiliency ✨(keeping all the lights blinking and the logs green)
-- Code Reviewer for contract workers and others ⭐
+- Code Reviewer for those on my team and others ⭐
 
 🔨 At my day job I work with and on some pretty cool tech/ideas including but in no way limited to:
 - C# (.NET Core/Framework), Node/Typescript, GoLang, Ruby (Scripting), Python
